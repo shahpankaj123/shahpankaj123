@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Food Odering website](http://snackswift.infinityfreeapp.com/)
 
-- 👨‍💻 All of my projects are available at [www.pankajshah12.com.np](www.pankajshah12.com.np)
+- 👨‍💻 All of my projects are available at [MyGithub](https://github.com/shahpankaj123)
 
 - 💬 Ask me about **Python , Django**
 
