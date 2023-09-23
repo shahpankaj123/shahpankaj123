@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [News Blog websites](https://www.taza-khabar.epizy.com/)
 
-- 🌱 I’m currently learning **Django_rest_framework**
+- 🌱 I’m currently learning **Django_rest_framework(DRF)**
 
 - 👯 I’m looking to collaborate on [Food Odering website](http://snackswift.infinityfreeapp.com/)
 
