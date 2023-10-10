@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django_rest_framework(DRF)**
 
-- 👯 I’m looking to collaborate on [Chat_application using Django_channel]
+- 👯 I’m looking to collaborate on Chat_application using Django_channel
 
 - 👨‍💻 All of my projects are available at [MyGithub](https://github.com/shahpankaj123)
 
