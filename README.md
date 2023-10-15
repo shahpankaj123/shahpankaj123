@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-commerce_using_DRF]()
 
-- 🌱 I’m currently learning **Django_rest_framework(DRF)**
+- 🌱 I’m currently learning **React_Framework**
 
 - 👯 I’m looking to collaborate on Chat_application using Django_channel
 
