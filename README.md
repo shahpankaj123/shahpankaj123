@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width=350>
 
-- 🔭 I’m currently working on [E-commerce_using_DRF]()
+- 🔭 I’m currently working on [Chat_app using Django channels]()
 
-- 🌱 I’m currently learning **React_Framework**
+- 🌱 I’m currently learning **Django channels**
 
 - 👯 I’m looking to collaborate on Chat_application using Django_channel
 
