@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Chat_app using Django channels]()
 
-- 🌱 I’m currently learning **Ajax with Django**
+- 🌱 I’m currently learning **MongoDb**
 
 - 👯 I’m looking to collaborate on Chat_application using Django_channel
 
