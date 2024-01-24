@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Large Language Model(LLM)**
 
-- 👯 I’m looking to collaborate on Chat_application using Django_channel
+- 👯 I’m looking to collaborate on Machine Learning Model
 
 - 👨‍💻 All of my projects are available at [MyGithub](https://github.com/shahpankaj123)
 
