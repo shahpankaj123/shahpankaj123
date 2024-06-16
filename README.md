@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pankaj Shah</h1>
-<h3 align="center">A passionate AI + ML + Python + JAVA  Backend Developer from Nepal</h3>
+<h3 align="center">A passionate AI + ML + Python + Java  Backend Developer from Nepal</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahpankaj123&label=Profile%20views&color=0e75b6&style=flat" alt="shahpankaj123" /> </p>
