@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pankaj Shah</h1>
-<h3 align="center">A passionate AI + ML + Python + Java Backend Developer from Nepal</h3>
+<h3 align="center">A passionate AI + ML + Python + JAVA  Backend Developer from Nepal</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahpankaj123&label=Profile%20views&color=0e75b6&style=flat" alt="shahpankaj123" /> </p>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width=350>
 
-- 🔭 I’m currently working on [Machine Learning]()
+- 🔭 I’m currently working on [Spring Boot]()
 
 - 🌱 I’m currently learning **Large Language Model(LLM)**
 
