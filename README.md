@@ -21,13 +21,13 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/pankaj-shah" target="blank">
+  <a href="https://www.linkedin.com/in/pankaj-shah-901a98219/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pankaj-shah" height="30" width="40" />
   </a>
-  <a href="https://fb.com/aryan-shah" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100015184608886" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryan-shah" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/aryan-shah" target="blank">
+  <a href="#" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan-shah" height="30" width="40" />
   </a>
 </p>
