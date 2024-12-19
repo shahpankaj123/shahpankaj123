@@ -24,7 +24,7 @@
 ---
 
 ### 🌐 Connect With Me:
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/pankaj-shah-901a98219/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
